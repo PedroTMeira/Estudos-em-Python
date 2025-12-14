@@ -1,0 +1,1 @@
+Projeto desenvolvido com fins educacionais para gerenciar uma lista de filmes via terminal. Permite operações de CRUD e persistência de dados em JSON. Utilizado para consolidar fundamentos de Python, como lógica, funções, estruturas de dados e manipulação de arquivos.
